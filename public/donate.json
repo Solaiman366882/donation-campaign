@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "img": "donation1.jpg",
+        "title": "Clean Water Initiative",
+        "category": "Water",
+        "category_bg": "#3498db",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Provide clean and safe drinking water to communities in need.",
+        "price": "$50"
+    },
+    {
+        "id": 2,
+        "img": "donation2.jpg",
+        "title": "Education for All",
+        "category": "Education",
+        "category_bg": "#e74c3c",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Support access to quality education for children around the world.",
+        "price": "$30"
+    },
+    {
+        "id": 3,
+        "img": "donation3.jpg",
+        "title": "Food Security Project",
+        "category": "Food",
+        "category_bg": "#e67e22",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Help eradicate hunger and ensure everyone has enough to eat.",
+        "price": "$40"
+    },
+    {
+        "id": 4,
+        "img": "donation4.jpg",
+        "title": "Healthcare for Vulnerable Communities",
+        "category": "Health",
+        "category_bg": "#9b59b6",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Provide medical care and resources to those in underserved areas.",
+        "price": "$60"
+    },
+    {
+        "id": 5,
+        "img": "donation5.jpg",
+        "title": "Environmental Conservation",
+        "category": "Environment",
+        "category_bg": "#27ae60",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Support initiatives to protect and preserve our environment.",
+        "price": "$45"
+    },
+    {
+        "id": 6,
+        "img": "donation6.jpg",
+        "title": "Animal Welfare",
+        "category": "Animals",
+        "category_bg": "#f39c12",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Help care for and protect animals in need of assistance.",
+        "price": "$35"
+    },
+    {
+        "id": 7,
+        "img": "donation7.jpg",
+        "title": "Empowerment Through Entrepreneurship",
+        "category": "Empowerment",
+        "category_bg": "#d35400",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Support initiatives that empower individuals to start businesses.",
+        "price": "$50"
+    },
+    {
+        "id": 8,
+        "img": "donation8.jpg",
+        "title": "Disaster Relief Fund",
+        "category": "Emergency",
+        "category_bg": "#c0392b",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Provide aid and resources to communities affected by disasters.",
+        "price": "$70"
+    },
+    {
+        "id": 9,
+        "img": "donation9.jpg",
+        "title": "Art and Culture Preservation",
+        "category": "Culture",
+        "category_bg": "#2980b9",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Support initiatives to preserve and promote arts and culture.",
+        "price": "$40"
+    },
+    {
+        "id": 10,
+        "img": "donation10.jpg",
+        "title": "Mental Health Awareness",
+        "category": "Health",
+        "category_bg": "#8e44ad",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Promote awareness and provide resources for mental health support.",
+        "price": "$55"
+    },
+    {
+        "id": 11,
+        "img": "donation11.jpg",
+        "title": "Youth Empowerment Program",
+        "category": "Empowerment",
+        "category_bg": "#c0392b",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Empower young individuals to reach their full potential.",
+        "price": "$45"
+    },
+    {
+        "id": 12,
+        "img": "donation12.jpg",
+        "title": "Community Building Project",
+        "category": "Community",
+        "category_bg": "#e74c3c",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2ecc71",
+        "description": "Support projects that strengthen and unify communities.",
+        "price": "$65"
+    }
+]
