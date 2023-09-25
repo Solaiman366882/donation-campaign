@@ -14,7 +14,7 @@ const HomeCard = ({donation}) => {
 
     return (
         <div>
-            <NavLink to={`/donation/${id}`}>
+            <NavLink to={`/donation-detail/${id}`}>
                 <div style={cardBackgroundColor} className="card">
                     <div className="card-img">
                         <img src={img} alt="" />

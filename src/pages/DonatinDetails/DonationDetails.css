@@ -1,0 +1,58 @@
+.donation-details-card {
+    width: 100%;
+
+}
+.donation-details-card .donation-img {
+    width: 100%;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.donation-details-card .donation-img img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+.donation-details-card .donation-img .price-area {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 0px 0px 8px 8px;
+    background: rgba(11, 11, 11, 0.50);
+    height: 130px;
+    display: flex;
+    align-items: center;
+    padding: 37px;
+}
+.donation-details-card .donation-img .price-area button.donation-btn {
+    border-radius: 4px;
+    /* background: #FF444A; */
+    display: inline-flex;
+    padding: 16px 26px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+}
+.donation-details-card .donation-body {
+    width: 100%;
+    padding-top: 40px;
+}
+.donation-details-card .donation-body h2.title {
+    color: #0B0B0B;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.donation-details-card .donation-body p.description {
+    color: rgba(11, 11, 11, 0.70);
+    text-align: justify;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 16px;
+    padding-bottom: 40px;
+}
