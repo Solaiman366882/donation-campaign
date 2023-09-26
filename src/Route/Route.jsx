@@ -10,6 +10,7 @@ const myRoute = createBrowserRouter([
     {
         path:"/",
         element:<MainLayout></MainLayout>,
+        // errorElement:<p>error</p>,
         children:[
             {
                 path:"/",
