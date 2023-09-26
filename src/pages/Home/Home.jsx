@@ -1,5 +1,5 @@
 import { useLoaderData } from "react-router-dom";
-import HomeCard from "../../components/Header/HomeCard/HomeCard";
+import HomeCard from "../../components/HomeCard/HomeCard";
 
 
 const Home = () => {

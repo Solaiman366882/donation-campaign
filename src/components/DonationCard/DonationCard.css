@@ -1,0 +1,42 @@
+.donation-card {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+.donation-card .donation-img img{
+    width: 220px;
+    height: 200px;
+    object-fit: cover;
+}
+.donation-card .card-body p.category {
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    padding: 3px 12px;
+    border-radius: 4px;
+}
+.donation-card .card-body h2.title {
+    color: #0B0B0B;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 4px 0;
+}
+.donation-card .card-body button.details-btn {
+    display: inline-flex;
+    padding: 9px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 4px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+}
+.donation-card .card-body p.price {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
