@@ -7,7 +7,7 @@ const Donation = () => {
 
     const [isShowAll,setIsShowAll] = useState(false);
     const[visibleDonation,setVisibleDonation] = useState([]);
-    const [totalDonation,setTotalDonation] = useState([])
+    const [totalDonation,setTotalDonation] = useState([]);
     const[noDonation,setNoDonation] = useState(false);
   
 

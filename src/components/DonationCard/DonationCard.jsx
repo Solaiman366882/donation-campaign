@@ -2,7 +2,7 @@ import './DonationCard.css'
 import PropTypes from 'prop-types'
 const DonationCard = ({donation}) => {
 
-    const{title,img,category,category_bg,card_bg,text_button_bg,price} =donation || {};
+    const{title,img,category,category_bg,card_bg,text_button_bg,price} = donation || {};
 
     const buttonBg = {backgroundColor:text_button_bg};
     const cardBg = {backgroundColor:card_bg};
