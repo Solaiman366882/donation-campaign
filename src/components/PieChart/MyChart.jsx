@@ -10,7 +10,7 @@ const MyChart = () => {
     useEffect(() => {
       const donations = JSON.parse(localStorage.getItem('totalDonation'));
 
-      const myDonationLength = donations?.length;
+      const myDonationLength = donations?.length || 0;
 
 
       setMyDonation(myDonationLength);
@@ -44,7 +44,7 @@ const MyChart = () => {
 
 
   return (
-    <div className='w-[40%] mx-auto min-h-[80vh] flex justify-center items-center'>
+    <div className='w-[80%] md:w-[40%] mx-auto min-h-[80vh] flex justify-center items-center '>
       <Pie data={data}></Pie>
     </div>
   );

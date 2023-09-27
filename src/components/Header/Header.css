@@ -1,0 +1,16 @@
+.header-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-area nav.header-menu-area ul{
+    display: flex;
+    gap: 40px;
+
+}
+.header-area nav.header-menu-area ul li{
+    color: #0B0B0B;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}

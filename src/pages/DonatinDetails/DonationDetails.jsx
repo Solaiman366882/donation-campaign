@@ -65,16 +65,16 @@ const DonationDetails = () => {
     }
 
     return (
-        <div className="w-full min-h-[80vh] flex items-center justify-center pt-10">
+        <div className="w-full min-h-[80vh] max-w-screen-xl px-4 mx-auto flex items-center justify-center pt-10">
             <div className="donation-details-card">
                 <div className="donation-img">
-                    <img src={img} alt="" />
-                    <div className="price-area">
-                        <button onClick={handleDonation} style={buttonBackgroundColor} className="donation-btn">Donate ${price}</button>
+                    <img src={img} className="h-auto md:h-[400px] lg:h-[600px]" alt="" />
+                    <div className="price-area p-5 md:p-8 md:h-[80px] lg:h-[130px]">
+                        <button onClick={handleDonation} style={buttonBackgroundColor} className="donation-btn py-2 px-3 md:py-4 md:px-6 text-lg md:text-xl">Donate ${price}</button>
                     </div>
                 </div>
                 <div className="donation-body">
-                    <h2 className="title">{title}</h2>
+                    <h2 className="title text-2xl md:text-4xl">{title}</h2>
                     <p className="description">{description}</p>
                 </div>
             </div>

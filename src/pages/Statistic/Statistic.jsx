@@ -6,8 +6,7 @@ import 'chart.js/auto';
 
 const Statistic = () => {
     return (
-        <div>
-            This is Statistic Page
+        <div className="max-w-screen-xl px-4 mx-auto">
             {/* <Example></Example> */}
             <MyChart></MyChart>
         </div>
