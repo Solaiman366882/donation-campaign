@@ -15,7 +15,7 @@
 ## Important Link
 
  - [Live Website link](https://sweet-youtiao-01c1c2.netlify.app/)
- - [Repository link](https://github.com/programming-hero-web-course-4/b8a8-donation-campaign-Solaiman366882)
+ - [Repository link](https://github.com/Solaiman366882/donation-campaign)
 
 
 
